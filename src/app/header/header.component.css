@@ -1,0 +1,33 @@
+.header-wrapper{
+  background: #263238;
+  padding: 10px;
+  font-family: Calibri;
+  font-size: 18pt;
+  font-weight: 100;
+  color:white;
+  box-sizing: border-box;
+
+}
+.logo{
+  float: left;
+  text-align: center;
+}
+.search{
+  float: left;
+}
+.search-tab{
+  background-color: #263238;
+  color: white;
+}
+.border {
+  border: 0;
+  border-bottom: 1px solid white;
+  box-shadow: none; /* You may want to include this as bootstrap applies these styles too */
+}
+.rounded-div{
+  border-radius: 100%;
+  background-color: white;
+  text-align: center;
+  color: #263238;
+  float: right;
+}
