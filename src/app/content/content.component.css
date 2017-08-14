@@ -1,4 +1,10 @@
 .content{
-  height: 500px;
-  background: #263212;
+  margin: 15px;
+  height: 1000px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navigation{
+  width: 20%;
+  margin: 15px;
 }
